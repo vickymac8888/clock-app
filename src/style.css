@@ -1,0 +1,13 @@
+body {
+  background-image: url(../src/images/nature.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white;
+  text-align: center;
+}
+
+.time {
+  font-size: 200px;
+}
